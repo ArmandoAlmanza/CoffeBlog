@@ -1,0 +1,35 @@
+{
+  "name": "coffe-blog",
+  "version": "1.0.0",
+  "description": "just a blog about coffe :3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArmandoAlmanza/CoffeBlog.git"
+  },
+  "keywords": [
+    "sass",
+    "html.",
+    "js"
+  ],
+  "author": "Armando Almanza",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ArmandoAlmanza/CoffeBlog/issues"
+  },
+  "homepage": "https://github.com/ArmandoAlmanza/CoffeBlog#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-concat": "^2.6.1",
+    "gulp-imagemin": "^7.1.0",
+    "gulp-rename": "^2.0.0",
+    "gulp-sass": "^4.1.0",
+    "gulp-sourcemaps": "^2.6.5",
+    "gulp-terser-js": "^5.2.2",
+    "gulp-webp": "^4.0.1",
+    "terser": "^5.3.8"
+  }
+}
